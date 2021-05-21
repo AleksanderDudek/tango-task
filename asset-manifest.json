@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tango-task/static/css/main.cfb74587.chunk.css",
+    "main.js": "/tango-task/static/js/main.961ba82e.chunk.js",
+    "main.js.map": "/tango-task/static/js/main.961ba82e.chunk.js.map",
+    "runtime-main.js": "/tango-task/static/js/runtime-main.fd9abc8b.js",
+    "runtime-main.js.map": "/tango-task/static/js/runtime-main.fd9abc8b.js.map",
+    "static/js/2.1a9a2522.chunk.js": "/tango-task/static/js/2.1a9a2522.chunk.js",
+    "static/js/2.1a9a2522.chunk.js.map": "/tango-task/static/js/2.1a9a2522.chunk.js.map",
+    "static/js/3.d905fcea.chunk.js": "/tango-task/static/js/3.d905fcea.chunk.js",
+    "static/js/3.d905fcea.chunk.js.map": "/tango-task/static/js/3.d905fcea.chunk.js.map",
+    "index.html": "/tango-task/index.html",
+    "static/css/main.cfb74587.chunk.css.map": "/tango-task/static/css/main.cfb74587.chunk.css.map",
+    "static/js/2.1a9a2522.chunk.js.LICENSE.txt": "/tango-task/static/js/2.1a9a2522.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/tango-task/static/media/got.71fa190a.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd9abc8b.js",
+    "static/js/2.1a9a2522.chunk.js",
+    "static/css/main.cfb74587.chunk.css",
+    "static/js/main.961ba82e.chunk.js"
+  ]
+}
